@@ -1,0 +1,77 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.sectionLight {
+    background-color: #f2f2f2;
+    padding: 2rem;
+}
+
+.sectionDark {
+    background-color: #999999;
+    padding: 2rem;
+
+}
+.skateCoolWrapper {
+   margin-top: 20px; 
+}
+.skateCoolButton {
+    background-color: red;
+    color: white;
+    display: block;
+    margin: auto;
+    border: none;
+}
+.imgCenter {
+   display: block;
+    margin: auto;
+    }
+.threeBottomButton {
+    background-color: red;
+    display: block;
+    margin: auto;
+    color: white;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    width: 54%;
+    
+}
+h5.modal-title {
+    margin: auto;
+}
+.modalFormWrapper {
+    padding: 2rem;
+}
+.skateFooter {
+    background-color: black;
+}
+.skateFooterImg {
+   padding: 1rem;
+}
+.fa {
+    margin: 5px;
+}
+.facebookFooter {
+    color: #4267B2;
+}
+.gPlusFooter {
+    color: red;
+}
+.instaFooter {
+    color: #ffffff;
+}
+.socialWrapper {
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
